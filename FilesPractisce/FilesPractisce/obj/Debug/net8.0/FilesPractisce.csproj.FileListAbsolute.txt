@@ -1,0 +1,14 @@
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\bin\Debug\net8.0\FilesPractisce.exe
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\bin\Debug\net8.0\FilesPractisce.deps.json
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\bin\Debug\net8.0\FilesPractisce.runtimeconfig.json
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\bin\Debug\net8.0\FilesPractisce.dll
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\bin\Debug\net8.0\FilesPractisce.pdb
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\FilesPractisce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\FilesPractisce.AssemblyInfoInputs.cache
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\FilesPractisce.AssemblyInfo.cs
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\FilesPractisce.csproj.CoreCompileInputs.cache
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\FilesPractisce.dll
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\refint\FilesPractisce.dll
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\FilesPractisce.pdb
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\FilesPractisce.genruntimeconfig.cache
+C:\Users\nizam\Documents\C#\FilesPractisce\FilesPractisce\obj\Debug\net8.0\ref\FilesPractisce.dll
